@@ -24,6 +24,12 @@
             </snapshots>
         </repository>
     </repositories>
+    <scm>
+        <connection>scm:git:git://github.corp.inmobi.com/data-commons/SecureS3-FSClient.git</connection>
+        <developerConnection>scm:git:https://github.corp.inmobi.com/data-commons/SecureS3-FSClient.git</developerConnection>
+        <url>scm:git:https://github.corp.inmobi.com/data-commons/SecureS3-FSClient.git</url>
+        <tag>HEAD</tag>
+    </scm>
     <dependencies>
 
         <dependency>
