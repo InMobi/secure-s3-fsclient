@@ -109,7 +109,6 @@
             </snapshots>
         </repository>
     </repositories>
-
     <profiles>
         <profile>
             <id>hadoop-1</id>
